@@ -21,7 +21,7 @@ Flask-Ask==0.9.8
 funcsigs==1.0.2
 future==0.16.0
 fuzzywuzzy==0.15.1
-gmusicapi==10.1.2
+gmusicapi==11.0.3
 gpsoauth==0.4.1
 hjson==3.0.1
 httplib2==0.10.3
