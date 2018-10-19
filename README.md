@@ -186,7 +186,7 @@ Setting up an instance on Heroku may be an easier option for you, and these inst
 
 First, we need to deploy a copy of this code to Heroku. To do that, simply click the Deploy to Heroku button below.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stevenleeg/geemusic/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vpetrykanyn/geemusic/tree/master)
 
 Once you've named your app and the code has been deployed, the next step is to configure the app to work with your Google account. To do this click on the settings tab of Heroku's site. After the tab has loaded, click the button labeled Reveal Config Vars and update the variables below replacing each temporary value with your own values.
 
